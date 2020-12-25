@@ -1,0 +1,36 @@
+[
+   {
+      "Name":"Eternal",
+      "Status":"Idle",
+      "Description":"IN DEVELOPMENT STAGE~~The sequel and finale to Dungeon Destiny. Will be much more advanced and an unmatchable game.",
+      "Uses":[
+         "Ocelot",
+         "React",
+         "Nom",
+         "Nile"
+      ],
+      "Thumbnail":"./gamethumbnails/draw.png",
+      "Link":"https://studio.code.org/projects/gamelab/iRwktF_9NSFsBRa9dHAd7Fqg7Y00TASR2j-D32XklJE"
+   },
+   {
+      "Name":"Dungeon Destiny",
+      "Status":"Complete",
+      "Description":"A working version of Dungeon Destiny, should feature less lag and provide a fun time!",
+      "Uses":[
+         "React",
+         "Ocelot"
+      ],
+      "Thumbnail":"./gamethumbnails/ddThumbnail.png",
+      "Link":"https://studio.code.org/projects/applab/e7Pn2JAFECQV3iIuY6Z-cg"
+   },
+   {
+      "Name":"Dungeon Destiny Original",
+      "Status":"Complete",
+      "Description":"The original Dungeon Destiny. An older version with less action but more classics.",
+      "Uses":[
+         "N/A"
+      ],
+      "Thumbnail":"./gamethumbnails/ddorig.png",
+      "Link":"https://studio.code.org/projects/applab/jzdm0iqQ7VJjfF-KBXxNKA"
+   }
+]
