@@ -22741,6 +22741,7 @@ a.u-link.u-hover-white:hover {
 .u-table-alt-black tr:nth-child(even) {
   color: #ffffff;
   background-color: #000000;
+  height: 100px;
 }
 .u-button-style.u-black,
 .u-button-style.u-black[class*="u-border-"] {
