@@ -8213,7 +8213,7 @@ img.u-image,
 .u-back-image.u-image-contain,
 .u-image.u-image-contain {
   object-fit: contain;
-  background-size: contain;
+  background-size: cover;
 }
 .u-back-image.u-image-tiles,
 .u-image.u-image-tiles {
@@ -22741,7 +22741,6 @@ a.u-link.u-hover-white:hover {
 .u-table-alt-black tr:nth-child(even) {
   color: #ffffff;
   background-color: #000000;
-  height: 100px;
 }
 .u-button-style.u-black,
 .u-button-style.u-black[class*="u-border-"] {
