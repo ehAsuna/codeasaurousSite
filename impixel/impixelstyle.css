@@ -1,0 +1,104 @@
+@font-face {
+        font-family: poppinsMediumItalic; 
+        src: url("fonts/Poppins-Italic.ttf");
+}
+
+@font-face {
+        font-family: ralewayLightItalic;
+        src: url("fonts/Raleway-LightItalic.ttf");
+}
+
+@font-face {
+        font-family: cabinBold;
+        src: url("fonts/Cabin-Bold.ttf");
+}
+
+@font-face {
+        font-family: openSansRegular;
+        src: url("fonts/OpenSans-Regular.ttf");
+}
+
+.nametitle {
+        white-space: normal;
+
+        font-family: poppinsMediumItalic;
+        color: rgb(255, 255, 94);
+        font-size: 150%;
+        text-align: center;
+}
+
+.title {
+        font-family: ralewayLightItalic;
+        color: #6dff84;
+        font-size: 120%;
+        text-align: center;
+}
+
+.howToContactMe{
+        font-family: cabinBold;
+        text-align: center;
+        background-color: #636363;
+        border: 10px outset #000000;
+        top: 0;
+}
+
+.discordSocialMedia {
+      color: #6D84D1; 
+      margin-bottom: 0;
+      font-size: 130%;
+      line-height: 0.1;
+}
+
+.gmailSocialMedia {
+        color: crimson;
+        margin: 0;
+        padding-top: 0;
+        font-size: 130%;
+        line-height: 0.1;
+}
+
+.whoAmI {
+        font-size: 150%;
+        font-family: poppinsMediumItalic;
+        text-align: center;
+        color: rgb(255, 255, 94);
+}
+
+.whoAmIParagraph {
+        font-family: openSansRegular;
+        color: #6dff84;
+                
+        left: 50px;
+}
+
+.text-center {
+        text-align: center;
+}
+
+.width-400 {
+        width: 400px;
+}
+
+.inline-block {
+        display: inline-block;
+}
+
+.upDistance {
+        padding-top: 50px;
+}
+
+#viewGamesButton {
+        background-color: #6D84D1;
+        padding: 15px;
+        margin-top: 100px;
+        font-family: ralewayLightItalic;
+        text-align: center;
+        font-weight: 1000;
+        text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
